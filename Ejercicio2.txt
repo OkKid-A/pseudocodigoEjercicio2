@@ -1,0 +1,7 @@
+Proceso Countdown
+	Leer N
+	Para i = 0; hasta N-1; i++
+		temp <- N - i
+		Escribir temp
+	fin Para
+finProceso
